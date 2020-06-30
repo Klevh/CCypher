@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 
-#include "crypt.h"
+#include "kice.h"
 
 #define CHAR_SIZE 201
 
